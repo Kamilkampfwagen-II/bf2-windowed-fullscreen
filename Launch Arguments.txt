@@ -1,0 +1,1 @@
++szx 1920 +szy 1080 +fullscreen 0 +wx -8 +wy -40
